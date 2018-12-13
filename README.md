@@ -62,3 +62,4 @@ The control script will log its startup phases, they should be self explanatory.
 > 4. Wait for the Sphero to connect and flash red-green-blue.
 > 5. Rotate the Sphero the way you want it while it flashes white.
 > 6. Sphero's motors will lock into place and PPM signal generation will begin.
+> 7. Configure Trainer functions and triggers on your radio as usual.
